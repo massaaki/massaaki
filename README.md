@@ -1,7 +1,7 @@
 
 # Hello World!
 
-### **Hi, My name is Maurício, I'm Software Engineer passionate to frontend and architecture**
+### **Hi, my name is Maurício, I'm Software Engineer passionate to frontend and architecture**
 ### **Welcome to my profile =)**
 
 <p>I'm Bachelor of Computer Engineering and currently studying Software Engineering at 42 École, and I'm love to create Proof of concepts to always be updated to technologies changes.</p>
