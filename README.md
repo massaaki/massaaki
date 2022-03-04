@@ -8,8 +8,8 @@
 
 ## Statistics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=massaaki&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=react" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaaki&&hide=CoffeeScript,Objective-C,R,Vue,html,Ruby,java,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&layout=compact&langs_count=6&theme=react&hide_border=true" />
+<img height="180em"  width="350px" src="https://github-readme-stats.vercel.app/api?username=massaaki&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=react" />
+<img height="180em"  width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaaki&&hide=CoffeeScript,Objective-C,R,Vue,html,Ruby,java,handlebars,Starlark,%20php,css,scss,javascript,Jupyter%20Notebook&layout=compact&langs_count=6&theme=react&hide_border=true" />
 </p>
 
 
