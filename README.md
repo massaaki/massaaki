@@ -2,7 +2,6 @@
 # Hello World!
 
 ### **Hi, my name is Maurício, I'm Software Engineer, learnahololic && passionate to transform an idea into amazing project with usability, architecture and patterns**
-### **Welcome to my profile =)**
 
 <p>I'm Bachelor of Computer Engineering and currently studying Software Engineering at 42 École, and I'm love to create Proof of concepts to always be updated to technologies changes.</p>
 
